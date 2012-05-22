@@ -8,9 +8,13 @@ This account and repository is intended to be used for the Blender presentation 
 ==============================================================================================
 
 Here will be placed 3 main directories for the project:
+
 /references     """ main source of images for visualization with subfolders """
+  
   |------> engine
+  
   |------> mechanics
+  
   |------> scripts
 
 /blender    """ main source of blender files """
